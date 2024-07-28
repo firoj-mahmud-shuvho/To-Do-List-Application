@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+This application will not only let you add and delete tasks but also view them in a clean, orderly fashion. We will also be using Dart’s built-in dart:io library to write and read tasks from a text file. Let’s dive right in!
